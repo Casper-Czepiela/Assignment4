@@ -1,0 +1,8 @@
+{
+  "cyberBook":
+  [
+    {"bName": "book1","publisher": "person1","opinion":"bad","ISBN":"1234"},
+    {"bName": "book2","publisher": "person2","opinion":"good","ISBN":"4313"},
+    {"bName": "book3","publisher": "person3","opinion":"neuteral","ISBN":"6521"}          
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "pmpBook":
+  [
+    {"bName": "pbook1","publisher": "pmpperson1","opinion":"too long","ISBN":"5454"},
+    {"bName": "pbook2","publisher": "pmpperson2","opinion":"bad","ISBN":"1212"},
+    {"bName": "pbook3","publisher": "pmpperson3","opinion":"five out of ten","ISBN":"8787"}        
+  ]
+}

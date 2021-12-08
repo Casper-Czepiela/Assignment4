@@ -1,0 +1,8 @@
+{
+  "javaBook":
+  [
+    {"bName": "jbook1","publisher": "javaperson1","opinion":"very boring","ISBN":"7853"},
+    {"bName": "jbook2","publisher": "javaperson2","opinion":"good","ISBN":"3242"},
+    {"bName": "jbook3","publisher": "javaperson3","opinion":"neuteral","ISBN":"8542"}           
+  ]
+}
